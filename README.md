@@ -1,2 +1,5 @@
-# Solid-SRP-OCP-Examples
-Python examples applying SOLID principles (SRP and OCP) with clean, extensible architecture and real-world use cases.
+# solid-srp-ocp-examples
+
+Practical Python examples demonstrating the application of
+Single Responsibility Principle (SRP) and Open–Closed Principle (OCP),
+using clean architecture and real-world scenarios.
